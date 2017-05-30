@@ -1,7 +1,7 @@
 # -*- mode: org; -*-
 
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/css/htmlize.css"/>
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/css/readtheorg.css"/>
-#+HTML_HEAD: <script src="static/js/jquery-2.1.4.min.js"></script>
-#+HTML_HEAD: <script src="static/js/bootstrap.min.js"></script>
-#+HTML_HEAD: <script type="text/javascript" src="static/js/readtheorg.js"></script>
+#+HTML_HEAD: <link type="text/css" rel="stylesheet" href="css/htmlize.css"/>
+#+HTML_HEAD: <link type="text/css" rel="stylesheet" href="css/readtheorg.css"/>
+#+HTML_HEAD: <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="js/bootstrap.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="js/readtheorg.js"></script>
